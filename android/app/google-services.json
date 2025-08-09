@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "199324795727",
+    "project_id": "lynxride-driver",
+    "storage_bucket": "lynxride-driver.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199324795727:android:2da93b482d110c40253b3a",
+        "android_client_info": {
+          "package_name": "com.swiftex.lynxridedriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199324795727-mdushkl0smh60umaipuorkf70snndjrs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.swiftex.lynxridedriver",
+            "certificate_hash": "92b9a66a431eaae8e20daf0a1015a9e3dac94eb2"
+          }
+        },
+        {
+          "client_id": "199324795727-qkgitcrgf05h8lqnerq89dm41n6l5cor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxlNyjpMRgb6jzZuZEhzYN3NvXOEXHF6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199324795727-qkgitcrgf05h8lqnerq89dm41n6l5cor.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "199324795727-siadfotqilnuh7qmi7tm7ftdvptkksj1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.swiftex.lynxridedriver"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
